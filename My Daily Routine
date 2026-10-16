@@ -1,0 +1,11 @@
+#My daily routine
+print ("I wake up at 6:00 am")
+#or even 6:30
+print ("I usualy eat breakfast around 7:15")
+#sometimmes at 6:50 am or 8:00 am
+print ("At 9:00 am on Sundays, I attend Codingal's coding class")
+#and at 8:00 pm on saturdays
+print ("I eat lunch at 12:15 pm in school and 12:30 pm on holidays")
+#When it is half day, I eat lunch at 1:00 pm
+print ("I practice subjects like French and Social from 1:00 pm - 3:00 pm")
+#sometimes even Math and Science
