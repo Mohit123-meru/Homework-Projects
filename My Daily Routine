@@ -13,9 +13,8 @@ print ("I eat lunch at 12:15 pm in school and 12:30 pm on holidays")
 print ("I practice subjects like French and Social from 1:00 pm - 3:00 pm")
 #sometimes even Math and Science
 
-# YOUR CODE HERE
 print ("I play badminton for 55 minutes everyday")
 bat = 55 * 7
-bats = str (bat)
-print ("So, I play ", end = bats)
+batt = str (bat)
+print ("So, I play ", end = batt)
 print ("minutes every week.")
