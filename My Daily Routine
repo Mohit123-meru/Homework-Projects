@@ -1,4 +1,7 @@
-#My daily routine
+# ================================
+# MY DAILY ROUTINE PRINTER
+# ================================
+
 print ("I wake up at 6:00 am")
 #or even 6:30
 print ("I usualy eat breakfast around 7:15")
@@ -9,3 +12,10 @@ print ("I eat lunch at 12:15 pm in school and 12:30 pm on holidays")
 #When it is half day, I eat lunch at 1:00 pm
 print ("I practice subjects like French and Social from 1:00 pm - 3:00 pm")
 #sometimes even Math and Science
+
+# YOUR CODE HERE
+print ("I play badminton for 55 minutes everyday")
+bat = 55 * 7
+bats = str (bat)
+print ("So, I play ", end = bats)
+print ("minutes every week.")
